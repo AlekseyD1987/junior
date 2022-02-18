@@ -1,0 +1,9 @@
+.TableRow {
+	text-align: left;
+}
+.TableRow:hover {
+	cursor: pointer;
+}
+.SelectedRow {
+	background: #c3c3c3;
+}

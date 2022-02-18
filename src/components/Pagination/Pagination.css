@@ -1,0 +1,10 @@
+.Pagination {
+	text-align: center;
+	margin: 20px auto;
+}
+.Pagination ul {
+	justify-content: center;
+}
+.page-link:hover {
+	cursor: pointer;
+}

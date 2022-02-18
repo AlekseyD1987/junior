@@ -1,0 +1,10 @@
+.Search {
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+}
+.form-group {
+	min-width: 230px;
+	margin-right: 10px;
+}
+
